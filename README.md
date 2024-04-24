@@ -113,7 +113,7 @@ If you have a permission issue, go the the file properties and tick the box that
 - [@afouquem]
 - [@cescriva]
 
-Project initiated by 01-edu.
+Project initiated by 01-edu : https://zone01normandie.org/git/root/public/src/branch/master/subjects/crossword
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
